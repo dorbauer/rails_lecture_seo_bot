@@ -1,6 +1,6 @@
 class SeoBot
   
-  require 'file_downloader.rb'
+  require 'helper_modules.rb'
   
   include Config
   include FileOpener
